@@ -5,7 +5,7 @@
         // After companyId is confirmed, load the list with filters
         this.loadSeatOrderList(this.selectedStatus || 'tumu', this.selectedDate || 'sonbirhafta');
       } else {
-        console.error('Company ID not found.');
+        console.error('Selamlar.')
       }
 
 
