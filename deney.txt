@@ -1,3 +1,4 @@
+
       if (this.companyId) {
         localStorage.setItem('comp', this.companyId);
 
