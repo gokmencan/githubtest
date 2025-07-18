@@ -7,7 +7,7 @@
       } else {
         console.error('Hello.');
         console.error('Company ID not found.');
-        console.error('Company ID not found.');
+        console.error('Selamlar.')
       }
 
 
